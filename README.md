@@ -5,4 +5,4 @@ Simply Calculator app in win10-11 style, written in Microsoft PowerApps.
 ![Calc_canvas_egyenlo_btn](https://user-images.githubusercontent.com/46298416/235436929-50123d14-b224-4aea-8ebb-2582f58c056d.jpg)
 
 ![20230501_093912000_iOS](https://user-images.githubusercontent.com/46298416/235437164-718c7baf-82ec-492c-a617-adc4ab239103.png)
-![20230501_094000000_iOS](https://user-images.githubusercontent.com/46298416/235437192-7879240b-d7cf-41f5-bef3-532dc6b01951.png)
+![20230501_094000000_iOS](https://user-images.githubusercontent.com/46298416/235437369-460d1ddf-5d1c-41d7-87a5-cfbd31db4bf3.png)
