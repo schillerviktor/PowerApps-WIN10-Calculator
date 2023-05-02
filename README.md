@@ -1,7 +1,7 @@
 # PowerApps-WIN10-Calculator
 Simply Calculator app in win10 22H2 style, it was written in Microsoft PowerApps.
 
-![Calc_can![app_label](https://user-images.githubusercontent.com/46298416/235781753-91b2d8cf-4b7d-43b4-a2c5-2622664e6046.jpg)
+!(https://user-images.githubusercontent.com/46298416/235781753-91b2d8cf-4b7d-43b4-a2c5-2622664e6046.jpg)
 ![Calc_canvas_display_code](https://user-images.githubusercontent.com/46298416/235436925-ca7be78c-4a17-4e79-82c9-3a9c2d6af50c.jpg)
 
 On IOS 16.4.1;
